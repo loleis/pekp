@@ -10,7 +10,7 @@
         },
 	 
 
-        /*cat*/
+        /*cat*  https://jihulab.com/qcfree/yyfx/-/raw/main/dbd.json  */
 
   {"key":"230ts0","name":"爱上你听书网cat0[听]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/230ts_open.js"},
   {"key":"230ts","name":"爱上你听书网cat[听]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/cat/230ts_open.js"},
@@ -24,7 +24,28 @@
   {"key": "花影","name": "💐cat_花影|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "糖豆","name": "💐cat_糖豆|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_糖豆.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "yikm[游戏].js","name": "💐cat_yikm[游戏]|[js]","type":3,"api": "./cat/yikm[游戏].js"},
-
+  {
+            "key": "🦁永乐",
+            "name": "🦁永乐",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/永乐.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
+        {
+            "key": "🇰🇷韩剧",
+            "name": "🇰🇷韩剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/韩剧网.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
 /*  js=ttps://jihulab.com/qcfree/yyfx/-/raw/main/js.json?ref_type=heads */
   {"key":"好趣网","name":"电视 |js_ 好趣网[直播]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/好趣网.js"},
   {"key":"drpy_js_哔哩影视","name":"影视 |js_ 哔哩影视[影视]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/哔哩影视.js"},
@@ -46,6 +67,7 @@
   {"key":"drpy_js_去看吧","name":"动漫 |js_ 去看吧[动漫]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/去看吧.js"},
   {"key":"drpy_js_人人影视","name":"影视 |js_人人影视[影视]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/人人影视.js"},	  
   {"key":"drpy_js_四个圈儿","name":"影视 |js_ 四个圈儿[影视]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/四个圈影视.js"},
+  
   {
 	  "key":"非凡",
 	  "name":"非凡[vod]",
