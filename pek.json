@@ -8,6 +8,7 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/豆瓣[官].js"
         },
+	  {"key":"lbts","name":"老白[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/lbgs_book_open.js"},
         {
       "key": "爱上听书",
       "name": "爱上听书",
