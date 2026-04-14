@@ -23,8 +23,15 @@
   {"key": "cat_路飞","name": "👾cat_路飞|[js]","type":3,"api": "./js/cat_路飞.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "花影","name": "💐cat_花影|[js]","type":3,"api": "./js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "糖豆","name": "💐cat_糖豆|[js]","type":3,"api": "./js/cat_糖豆.js","style": {"type": "rect","ratio": 1},"changeable": 1},
- 
-    {
+
+/*  js  */
+  {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/好趣网.js"},
+    
+	  
+	  
+	  
+	  
+	  {
       "key": "xuexi",
       "name": "线路|学习(T4)",
       "type": 4,
