@@ -24,28 +24,39 @@
   {"key": "花影","name": "💐cat_花影|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "糖豆","name": "💐cat_糖豆|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_糖豆.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "yikm[游戏].js","name": "💐cat_yikm[游戏]|[js]","type":3,"api": "./cat/yikm[游戏].js"},
-  {
-            "key": "🦁永乐",
-            "name": "🦁永乐",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/永乐.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
-        {
-            "key": "🇰🇷韩剧",
-            "name": "🇰🇷韩剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/韩剧网.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
+  {"key": "🦁永乐","name": "🦁永乐","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/永乐.js",
+	  "style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "🇰🇷韩剧","name": "🇰🇷韩剧","type": 3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/韩剧网.js",
+	  "style": {    "type": "rect",    "ratio": 1},"changeable": 1},
+  {"key": "🦁虫影","name": "🦁虫影","type": 3,"api": "./js/drpy2.min.js","ext": "./js/虫影.js"},
+  {"key": "🎬HD影","name": "🎬HD影","type": 3,"api": "./js/drpy2.min.js","ext": "./js/高清影院.js"},
+  {"key": "🎞高清","name": "🎞高清","type": 3,"api": "./js/高清.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "☁️云看","name": "☁️云看","type": 3,"api": "./js/drpy2.min.js","ext": "./js/云看影视.js"        },
+  {"key": "🪷木兮","name": "🪷木兮","type": 3,"api": "./js/山有木兮.js"        },
+  {"key": "😊快乐","name": "😊快乐","type": 3,"api": "./js/快乐影视.js"        },
+  {"key": "🌾咕噜","name": "🌾咕噜","type": 3,"api": "./js/Appfox.js",
+	  "ext": {    "host": "http://www.yingsw.top",    "timeout": 8,    "key": "guluyinghua_123",    "sign": "679543610991810f19698c187e5e106e"            }        },
+  {"key": "🚬独播库","name": "🚬独播","type": 3,"api": "./js/独播库.js","style": {    "type": "rect",    "ratio": 1},"changeable": 1        },
+  {"key": "🍱味道","name": "🍱味道","type": 3,"api": "./js/七味网.js","style": {    "type": "rect",    "ratio": 1},"changeable": 1        },
+  {"key": "🙌聚合短剧","name": "🙌短剧合集","type": 3,"api": "./js/聚合短剧.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""        },
+  {"key": "🦄动漫","name": "🦄动漫","type": 3,"api": "./js/moefun.js"        },
+  {"key": "虎牙js","name": "🐯虎牙","type": 3,"api": "./js/drpy2.min.js","ext": "./js/虎牙.js",
+	  "style": {    "type": "rect",    "ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0        },
+  {"key": "斗鱼js","name": "🐟斗鱼","type": 3,"api": "./js/drpy2.min.js","ext": "./js/斗鱼.js",
+	  "style": {    "type": "rect",    "ratio": 1.755},"timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 0,"changeable": 0        },
+  {"key": "🪷体育","name": "🪷体育","type": 3,"api": "./js/drpy2.min.js","ext": "./js/178体育直播.js"        },
+  {"key": "🐶酷狗","name": "🐶酷狗","type": 3,"api": "./js/drpy2.min.js","ext": "./js/酷狗.js"        },
+  {"key": "随身评书","name": "📚评书","type": 3,"api": "./js/drpy2.min.js","ext": "./js/随身评书.js"        },
+  {"key": "爱上听书","name": "📚听书","type": 3,"api": "./js/drpy2.min.js","ext": "./js/爱上听书.js"        },
+  {"key": "酷我听书","name": "📚听书","type": 3,"api": "./js/drpy2.min.js","ext": "./js/酷我听书.js"        },
+  {"key": "凤凰FM","name": "📻FM","type": 3,"api": "./js/drpy2.min.js","ext": "./js/凤凰FM.js"        },
+  {"key": "蜻蜓FM","name": "📻FM","type": 3,"api": "./js/drpy2.min.js","ext": "./js/蜻蜓FM.js"        },
+  {"key": "戏曲大全","name": "🎭戏曲","type": 3,"api": "./js/drpy2.min.js","ext": "./js/戏曲大全.js"        },
+  {"key": "💗国产","name": "🪜国产","type": 3,"api": "./js/国产传媒.js","style": {    "type": "rect",    "ratio": 1},            "changeable": 1        },
+
+	  
+	  
+	  
 /*  js=ttps://jihulab.com/qcfree/yyfx/-/raw/main/js.json?ref_type=heads */
   {"key":"好趣网","name":"电视 |js_ 好趣网[直播]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/好趣网.js"},
   {"key":"drpy_js_哔哩影视","name":"影视 |js_ 哔哩影视[影视]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/哔哩影视.js"},
