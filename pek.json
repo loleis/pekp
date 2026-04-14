@@ -5,32 +5,59 @@
       "key": "豆瓣[官]",
       "name": "豆瓣[官]-20260413更新",
       "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/豆瓣[官].js"
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/drpy2.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/豆瓣[官].js"
         },
 	 
 
         /*cat*/
 
   {"key":"230ts0","name":"爱上你听书网cat0[听]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/230ts_open.js"},
-  {"key":"230ts","name":"爱上你听书网cat[听]","type":3,"api":"./cat/230ts_open.js"},
+  {"key":"230ts","name":"爱上你听书网cat[听]","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/cat/230ts_open.js"},
   {"key":"bookan_open","name":"cat_博看[听]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/MyCatBookan.js"},
 	{"key":"boosj_open","name":"cat_童趣[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/boosj_open.js"},
   {"key":"tuxiaobei_open","name":"cat_兔小贝[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/tuxiaobei_open.js"},
   {"key":"ubestkid_open","name":"cat_贝乐虎[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/ubestkid_open.js"},
-  {"key": "cat光影","name": "✨cat_光影|[js]", "type":4,"api": "./js/cat_光影.js","style": {"type": "rect","ratio": 1},"changeable": 1},
-  {"key": "cat_麻雀","name": "🐦cat_麻雀|[js]","type":3,"api": "./js/cat_麻雀.js","style": {"type": "rect","ratio": 1},"changeable": 1},
-  {"key": "cat_路飞","name": "👾cat_路飞|[js]","type":3,"api": "./js/cat_路飞.js","style": {"type": "rect","ratio": 1},"changeable": 1},
-  {"key": "花影","name": "💐cat_花影|[js]","type":3,"api": "./js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
-  {"key": "糖豆","name": "💐cat_糖豆|[js]","type":3,"api": "./js/cat_糖豆.js","style": {"type": "rect","ratio": 1},"changeable": 1},
-  {"key": "yikm[游戏].js","name": "💐cat_yikm[游戏]|[js]","type":3,"api": "./cat/yikm[游戏].js",
+  {"key": "cat光影","name": "✨cat_光影|[js]", "type":4,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_光影.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "cat_麻雀","name": "🐦cat_麻雀|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_麻雀.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "cat_路飞","name": "👾cat_路飞|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_路飞.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "花影","name": "💐cat_花影|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "糖豆","name": "💐cat_糖豆|[js]","type":3,"api": "https://ghfast.top/https://raw.githubusercontent.com/loleis/pekp/refs/heads/main/js/cat_糖豆.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "yikm[游戏].js","name": "💐cat_yikm[游戏]|[js]","type":3,"api": "./cat/yikm[游戏].js"},
 
-/*  js  */
+/*  js=ttps://jihulab.com/qcfree/yyfx/-/raw/main/js.json?ref_type=heads */
   {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/好趣网.js"},
-    
-	  
-	  
-	  
+  {"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/哔哩影视.js"},
+  {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/哔哩直播.js"},	  
+  {"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/DJ音乐.js","playerType":"2"},	  
+  {"key":"drpy_js_种子音乐","name":"音频 | 种子音乐[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/种子音乐.js"},	  
+  {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/蜻蜓FM.js","playerType":"2"},
+  {"key":"drpy_js_广播迷FM","name":"广播 | 广播迷FM[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/广播迷FM.js","playerType":"2"},	  
+  {"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/相声随身听.js","playerType":"2"},	
+  {"key":"drpy_js_博看听书","name":"听书 | 博看听书[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/博看听书.js","playerType":"2"},
+  {"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版影像[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/网易公版影像.js"},
+  {"key":"drpy_js_A8音乐","name":"MV | A8音乐[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/A8音乐.js"},  
+  {"key":"drpy_js_酷狗MV","name":"MV | 酷狗[js]","type":3,"api":"./js/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/酷狗MV.js"},
+  {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/哔哩直播.js"},
+  {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/斗鱼直播.js"},
+  {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/虎牙直播.js"},	  
+  {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/童趣.js"},
+  {"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本网[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/有声绘本网.js"},
+  {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/兔小贝.js"},
+  {"key":"drpy_js_去看吧","name":"动漫 | 去看吧[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/去看吧.js"},
+  {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/人人影视.js"},	  
+  {"key":"drpy_js_四个圈儿","name":"影视 | 四个圈儿[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/四个圈影视.js"},
+  {
+	  "key":"非凡",
+	  "name":"非凡[fm]",
+	  "type":0,"api":
+	  "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+	  "searchable":1,
+	  "changeable":1,
+	  "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧",
+		  "海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]
+  },
+
 	  
 	  {
       "key": "xuexi",
