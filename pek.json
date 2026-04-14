@@ -8,33 +8,7 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/豆瓣[官].js"
         },
-	  {"key":"lbts","name":"老白[cat]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/lbgs_book_open.js"},
-        {
-      "key": "爱上听书",
-      "name": "爱上听书",
-      "type": 3,
-            "api": "./js/爱上听书.js"
-          //  "ext": "./js/爱上听书.js"
-        },
-	  {
-			"key": "hipy_js_爱上你听书网[听]",
-			"name": "爱上你听书网[听](drpy_t3)",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/爱上你听书网[听].js"
-		},
-	  {"key":"drpy_js_爱上你听书网","name":"听书 | 爱上你听书网[js]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/qcfree/yyfx/-/raw/main/js/爱上你听书网.js","playerType":"2"},
-        {
-      "key": "爱上你听书网[听]",
-      "name": "爱上你听书网[听]",
-      "type": 3,
-            "api": "./js/爱上你听书网[听].js"
-           // "ext": "./js/爱上你听书网[听].js"
-        },
+	 
 
         /*cat*/
 
