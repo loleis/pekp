@@ -18,7 +18,7 @@
 	{"key":"boosj_open","name":"cat_童趣[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/boosj_open.js"},
   {"key":"tuxiaobei_open","name":"cat_兔小贝[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/tuxiaobei_open.js"},
   {"key":"ubestkid_open","name":"cat_贝乐虎[儿]","type":3,"api":"https://jihulab.com/qcfree/yyfx/-/raw/main/cat/ubestkid_open.js"},
-  {"key": "cat光影","name": "✨cat_光影|[js]", "type": 3,"api": "./js/cat_光影.js","style": {"type": "rect","ratio": 1},"changeable": 1},
+  {"key": "cat光影","name": "✨cat_光影|[js]", "type": 4,"api": "./js/cat_光影.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "cat_麻雀","name": "🐦cat_麻雀|[js]","type": 3,"api": "./js/cat_麻雀.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "cat_路飞","name": "👾cat_路飞|[js]","type": 3,"api": "./js/cat_路飞.js","style": {"type": "rect","ratio": 1},"changeable": 1},
   {"key": "花影","name": "💐cat_花影|[js]","type": 3,"api": "./js/cat_花花.js","style": {"type": "rect","ratio": 1},"changeable": 1},
